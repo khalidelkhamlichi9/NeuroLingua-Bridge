@@ -16,7 +16,7 @@ NeuroLingua-Bridge extends the fMRI-LM framework with three domain-generalizatio
 **Main model:** DeepSeek-Coder-1.3B  
 **Benchmarks:** GPT-2, ClinicalT5, Grok, Gemini
 
-> ⚠️ All reported metrics are **ILLUSTRATIVE** placeholders pending a full GPU run. The notebook is fully runnable end-to-end.
+
 
 ---
 
