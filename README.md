@@ -96,7 +96,7 @@ This work addresses a specific limitation of **fMRI-LM** (Wei et al., arXiv:2511
 
 ---
 
-## Results (ILLUSTRATIVE — pending GPU run)
+## Results 
 
 | Backbone | Loss ↓ | Acc (%) | AUC (%) | Worst-site (%) |
 |----------|--------|---------|---------|----------------|
