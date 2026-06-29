@@ -94,19 +94,6 @@ This work addresses a specific limitation of **fMRI-LM** (Wei et al., arXiv:2511
 | Within-site / mixed-site evaluation | **Strict inter-site protocol** (unseen test sites) |
 | Schaefer-400 + Tian (450 ROIs) | **CC200 atlas (200 ROIs, native)** |
 
----
-
-## Results 
-
-| Backbone | Loss ↓ | Acc (%) | AUC (%) | Worst-site (%) |
-|----------|--------|---------|---------|----------------|
-| **DeepSeek (main)** | **0.402** | **80.0** | **81.10** | **74.1** |
-| Gemini | 0.417 | 80.0 | 80.90 | 73.4 |
-| Grok | 0.448 | 79.0 | 79.55 | 72.5 |
-| ClinicalT5 | 0.486 | 77.0 | 77.85 | 70.2 |
-| GPT-2 | 0.521 | 76.0 | 76.22 | 68.7 |
-
----
 
 ## Citation
 
