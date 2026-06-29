@@ -44,18 +44,6 @@ NeuroLingua-Bridge/
 └── paper/                          # LaTeX source + compiled PDF
 ```
 
----
-
-## Quick Start (Google Colab)
-
-1. Open `NeuroLingua_Bridge_Colab.ipynb` in Google Colab
-2. `Runtime → Change runtime type → GPU (T4)`
-3. `Runtime → Run all`
-
-Set `QUICK_TEST = True` (default) for a fast smoke-run on a subset.  
-Set `QUICK_TEST = False` for the full experiment on ABIDE-I.
-
----
 
 ## Local Installation
 
