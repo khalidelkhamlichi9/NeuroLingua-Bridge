@@ -1,7 +1,6 @@
 # NeuroLingua-Bridge
 ## Diagnosis of Autism Spectrum Disorder using LLMs and Multimodal Brain Connectivity Analysis
 
-**Author:** Mr. Khalid EL KHAMLICHI
 
 ---
 
